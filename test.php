@@ -1,7 +1,7 @@
 <?php
 include_once "fizzbuzz.class.php";
 
-FizzBuzz::print(15);
+FizzBuzz::print(1000);
 
 
 ?>
